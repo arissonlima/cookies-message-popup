@@ -3,7 +3,7 @@ let modalbox = document.getElementById("modalbox");
 function showModal() {
   setTimeout(() => {
     modalbox.style.display = "block";
-  }, 2000);
+  }, 1000);
 }
 
 function closeModal() {
